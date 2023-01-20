@@ -1,2 +1,1 @@
-# monty
-Alx-project
+Stacks, Queues - LIFO, FIFO
